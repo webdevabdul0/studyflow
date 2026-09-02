@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow",
+  "description": "A student companion to manage subjects, tasks, and upcoming exams with visual study aids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
